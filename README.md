@@ -116,12 +116,12 @@ Back-end POST api
 
 5) 공용 Component
 
-- Nav
+Nav
 레이아웃, Link component 사용
 
-- Footer
+Footer
 레이아웃
 
 
-7. 시연 화면
+## 시연 화면
 YouTube : https://www.youtube.com/watch?v=T-P641rIS1E
