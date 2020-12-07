@@ -32,21 +32,19 @@
 
 2. Git
 
-3. Linux
+3. VScode
 
-4. VScode
-
-5. Trello
+4. Trello
 
 - 프로젝트 스크럼 툴 ([링크](https://trello.com/b/7GVBeJ4W/wespace))
 
-6. AWS
+5. AWS
 
 - AWS EC2 서버 배포
 - AWS RDS 구축
 - AWS S3 구축 및 이미지 업로더 연결
 
-7. PostMan
+6. PostMan
 
 - API 테스트 및 결과 내용 공유
 
@@ -88,36 +86,37 @@
 
 <br>
 
-## 구현 페이지 및 기능
+## 담당 작업 내용
 
 <br>
 
-- 로그인 & 회원가입 기능
-- 제품 소개(Falcon 9) 페이지
+### Front-End
+1) Main Page
+메인 페이지 레이아웃
+메인 페이지 사진별로 component로 묶어서 map method 사용해서 렌더링
+scroll event
 
-  - Stat컴포넌트 화면에 들어왔을 시 0 -> 해당 stat Value만큼 수치 증가 기능
+2) Register Page (회원가입)
+회원가입 페이지 레이아웃
+Back-end POST api
 
-  - 슬라이더 기능
+3) Account Page (로그인)
+로그인 페이지 레이아웃
+Back-end POST api
+로그인 성공시 token을 sessionStorage에 저장
 
-  - Youtube Video Modal 창 기능
+4) Cart Page (장바구니)
+장바구니 페이지 레이아웃
+장바구니 품목 각각 component로 만들어서 총 가격 계산
+장바구니 물품 수량 변경시 DB 반영 (미구현)
 
-  - Modal mount, unmount 애니메이션
+5) 공용 Component
+- Nav
+레이아웃, Link component 사용
 
-  - Parallax 스크롤 기능
+- Footer
+레이아웃
 
-  - Parallax부분에서 일정스크롤 이상 시 기존 컴포넌트와 오버랩되면서 Slider 컴포넌트 보여주는 기능
 
-  - MenuTab 기능(선택된 Tab에 따라 다른 내용 렌더)
-
-  - 일정 Scroll에 도달했을 시(해당 컴포넌트가 viewport안에 위치했을 시) text fadein Animation 기능
-
-- 쇼핑 메인 페이지
-
-  - Map 함수를 통한 상품 리스트 구현
-  - Fetch를 통한 API 호출
-
-- 상품 상세 페이지
-
-  - 컬러 옵션 버튼 클릭 시, 팝업 모달 창 구현
-  - 'add to cart' 버튼 클릭 시, 유저 토큰 인증 처리 후 해당 페이지 이동
-  - SVG 컴포넌트화
+7. 시연 화면
+YouTube : https://www.youtube.com/watch?v=T-P641rIS1E
