@@ -1,4 +1,5 @@
-# 팀명: DevX, 프로젝트 명: WeSpace
+# 팀명: DevX, 
+# 프로젝트 명: WeSpace
 
 ---
 
