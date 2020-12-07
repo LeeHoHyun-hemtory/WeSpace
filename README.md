@@ -11,8 +11,9 @@
 ## 개발 인원 및 기간
 
 - 기간: 2020.08.18 - 2020.08.28 (약 2주)
-- 개발 인원: 프론트엔드 [황연욱](https://github.com/younuk23), [이호현](https://github.com/LeeHoHyun-hemtory), [송다슬](https://github.com/aleatorik)(PM) 백엔드 [김기욱](https://github.com/keywookkim), [이지연](https://github.com/leejirun)
-- 프론트 [Repository](https://github.com/wecode-bootcamp-korea/11-DevX-frontend) 백엔드 [Repository](https://github.com/wecode-bootcamp-korea/11-DevX-backend)
+- 개발 인원: 
+프론트엔드 송다슬(PM), 이호현, 황연욱 
+백엔드 김기욱, 이지연
 
 <br>
 
