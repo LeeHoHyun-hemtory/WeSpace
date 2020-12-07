@@ -17,9 +17,9 @@
 
 <br>
 
-### 데모 영상
+### 시연 영상
 
-[https://www.youtube.com/watch?v=mBAsMK8By9w&t=8s](https://www.youtube.com/watch?v=mBAsMK8By9w&t=8s)
+[https://www.youtube.com/watch?v=T-P641rIS1E](https://www.youtube.com/watch?v=T-P641rIS1E)
 
 <br>
 
@@ -122,7 +122,3 @@
 #### Footer
 
 - 레이아웃
-
-
-## 시연 화면
-YouTube : https://www.youtube.com/watch?v=T-P641rIS1E
