@@ -91,35 +91,35 @@
 <br>
 
 ### Front-End
-1) Main Page
+#### Main Page
 
 - 메인 페이지 레이아웃
 - 메인 페이지 사진별로 component로 묶어서 map method 사용해서 렌더링
 - scroll event
 
-2) Register Page (회원가입)
+#### Register Page (회원가입)
 
 - 회원가입 페이지 레이아웃
 - Back-end POST api
 
-3) Account Page (로그인)
+#### Account Page (로그인)
 
 - 로그인 페이지 레이아웃
 - Back-end POST api
 - 로그인 성공시 token을 sessionStorage에 저장
 
-4) Cart Page (장바구니)
+#### Cart Page (장바구니)
 
 - 장바구니 페이지 레이아웃
 - 장바구니 품목 각각 component로 만들어서 총 가격 계산
 - 장바구니 물품 수량 변경시 DB 반영 (미구현)
 
-5) 공용 Component
+#### Nav
 
-Nav
 - 레이아웃, Link component 사용
 
-Footer
+#### Footer
+
 - 레이아웃
 
 
